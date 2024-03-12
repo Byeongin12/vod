@@ -1,9 +1,2 @@
-
-
-
 print("hello")
-
-
 print("niga")
-
-

@@ -1,2 +1,2 @@
-print("hello")
-print('asd')
+print("helloniga")
+

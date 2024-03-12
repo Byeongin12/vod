@@ -1,2 +1,2 @@
-print("hellonigaddd")
-
+print("hello")
+print("niga")
